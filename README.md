@@ -28,6 +28,11 @@ System Engineer and Senior QA Engineer with global experience across the entire 
 
 ## 📂  Featured Automation Projects
 
+| Proyecto | Stack | Descripción |
+| --- | --- | --- |
+| [ga-devops-ai-challenge](https://github.com) | CI/CD + K6/JMeter | Pipeline completo de calidad: quality gates, performance con p95 medido, DevSecOps y testing de IA |
+| [ga-portfolio-restful-booker](https://github.com) | Playwright + TypeScript | 39 tests de API y UI, 53 casos manuales, 7 bugs documentados y reporte Allure publicado |
+
 
 <!--
 **MileAlmonacid/MileAlmonacid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
