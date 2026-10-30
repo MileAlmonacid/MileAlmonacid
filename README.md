@@ -18,6 +18,7 @@ System Engineer and Senior QA Engineer with global experience across the entire 
 - Agile & Scrum
 - Software Development Life Cycle (SDLC)
 
+## 🛠️ Tech Stack & Tooling
 💻 Lenguajes
 Python HTML5 CSS3 JavaScript
 
@@ -28,7 +29,7 @@ Postman Jira Git GitHub
 
 PyCharm Android Studio Charles Proxy
 
-📂 Proyectos y repositorios
+## 📂 Proyectos y repositorios
 
 
 <!--
