@@ -1,6 +1,6 @@
 ## Hi there I'm Lady Milena Almonacid 👋
 QA Engineer | Software Testing | QA Automation
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 <h3> 💻 About Me </h3>
 
