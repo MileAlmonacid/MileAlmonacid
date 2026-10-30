@@ -14,6 +14,13 @@ System Engineer and Senior QA Engineer with global experience across the entire 
 - QA Automation
 - Agile & Scrum
 - Software Development Life Cycle (SDLC)
+🛠️ Tech Stack & Tooling
+
+Test Automation: Playwright, Selenium WebDriver, Appium
+Languages: Java, TypeScript, SQL
+API Testing: Postman,SoapUi
+CI/CD & DevOps: GitHub Actions, Jenkins, Docker
+Test Management & Agile: Jira, Confluence, TestRail, BDD (Cucumber), Scrum
 <!--
 **MileAlmonacid/MileAlmonacid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
