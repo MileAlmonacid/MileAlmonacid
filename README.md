@@ -19,11 +19,11 @@ System Engineer and Senior QA Engineer with global experience across the entire 
 - Software Development Life Cycle (SDLC)
 
 ## 🛠️ Tech Stack & Tooling
-Test Automation: Playwright, Selenium WebDriver, Appium
-Languages: Java, TypeScript, SQL
-API Testing: Postman,SoapUi
-CI/CD & DevOps: GitHub Actions, Jenkins, Docker
-Test Management & Agile: Jira, Confluence, TestRail, BDD (Cucumber), Scrum
+- Test Automation: Playwright, Selenium WebDriver, Appium
+- Languages: Java, TypeScript, SQL
+- API Testing: Postman,SoapUi
+- CI/CD & DevOps: GitHub Actions, Jenkins, Docker
+- Test Management & Agile: Jira, Confluence, TestRail, BDD (Cucumber), Scrum
 
 ## 📂 Proyectos y repositorios
 
