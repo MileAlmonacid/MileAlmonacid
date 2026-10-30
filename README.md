@@ -1,5 +1,8 @@
 ## Hi there I'm Lady Milena Almonacid 👋
 QA Engineer | Software Testing | QA Automation
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+<h3> 💻 About Me </h3>
 
 System Engineer and Senior QA Engineer with global experience across the entire software development lifecycle. I specialize in designing and implementing manual, automated, and integration testing strategies within dynamic and agile environments.
 
