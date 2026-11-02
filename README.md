@@ -16,7 +16,7 @@ System Engineer and Senior QA Engineer with global experience across the entire 
 - Regression & Integration Testing
 - QA Automation
 - Agile & Scrum
-- I incorporate AI into my daily testing workflow (Claude, MCP, agents)
+- I incorporate AI into my daily testing workflow (Claude, MCP, agents)<img src="https://camo.githubusercontent.com/ab470df27e9f8b07963020a11739b9e49343d135d7ee0fb66f528faa4b020de1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c617564655f41492d3139313931393f7374796c653d666c6174266c6f676f3d616e7468726f706963266c6f676f436f6c6f723d7768697465">
 - Software Development Life Cycle (SDLC)
 
 ## 🛠️ Tech Stack & Tooling
