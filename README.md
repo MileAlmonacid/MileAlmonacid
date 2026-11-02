@@ -33,9 +33,10 @@ System Engineer and Senior QA Engineer with global experience across the entire 
 | [ga-devops-ai-challenge](https://github.com) | CI/CD + K6/JMeter | Pipeline completo de calidad: quality gates, performance con p95 medido, DevSecOps y testing de IA |
 | [ga-portfolio-restful-booker](https://github.com) | Playwright + TypeScript | esta es una description breve |
 
-##📫 Connect with Me
-LinkedIn: https://www.linkedin.com/in/ladymilenaalmonacid/
-Email: Mile520@hotmail.com
+## 📫 Connect with Me
+<a target="_blank" href="https://www.linkedin.com/in/ladymilenaalmonacid/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> 
+<a target="_blank" href="mile520@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-D14836?style=for-the-badge&logo=hotmail&logoColor=white"></img></a>
+
 <!--
 **MileAlmonacid/MileAlmonacid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
