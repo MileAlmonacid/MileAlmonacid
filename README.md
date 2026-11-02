@@ -20,7 +20,7 @@ System Engineer and Senior QA Engineer with global experience across the entire 
 - Software Development Life Cycle (SDLC)
 
 ## 🛠️ Tech Stack & Tooling
-- **Test Automation:** Playwright, Selenium WebDriver, Appium
+- **Test Automation:**  Playwright, Selenium WebDriver, Appium
 - **Languages:** Java, TypeScript, SQL
 - **API Testing:** Postman,SoapUi
 - **CI/CD & DevOps:** GitHub Actions, Jenkins
@@ -33,7 +33,9 @@ System Engineer and Senior QA Engineer with global experience across the entire 
 | [ga-devops-ai-challenge](https://github.com) | CI/CD + K6/JMeter | Pipeline completo de calidad: quality gates, performance con p95 medido, DevSecOps y testing de IA |
 | [ga-portfolio-restful-booker](https://github.com) | Playwright + TypeScript | esta es una description breve |
 
-
+##📫 Connect with Me
+LinkedIn: https://www.linkedin.com/in/ladymilenaalmonacid/
+Email: Mile520@hotmail.com
 <!--
 **MileAlmonacid/MileAlmonacid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
