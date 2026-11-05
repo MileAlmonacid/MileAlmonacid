@@ -27,7 +27,7 @@ System Engineer and Senior QA Engineer with global experience across the entire 
 - **API Testing:** <img src="https://camo.githubusercontent.com/c5ede833599180d4d54d7b9826801927fef7716c0c0f3e90e160fe8be244126e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666c6174266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465">,<img src="https://img.shields.io/badge/SoapUi-8A2BE2">
 - **CI/CD & DevOps:**  ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
     ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat), Jenkins
-- **Test Management & Agile:** <img src="https://camo.githubusercontent.com/b8da558a4062772d097420af9d0dc78da1b2d5903abd276065bef8fb63ea65bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f7374796c653d666c6174266c6f676f3d6a697261266c6f676f436f6c6f723d7768697465">, <img src="https://img.shields.io/badge/Azure%20Devops-8A2BE2">, Git & GitHub, TestRail, BDD (Cucumber), Scrum
+- **Test Management & Agile:** <img src="https://camo.githubusercontent.com/b8da558a4062772d097420af9d0dc78da1b2d5903abd276065bef8fb63ea65bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f7374796c653d666c6174266c6f676f3d6a697261266c6f676f436f6c6f723d7768697465">, <img src="https://img.shields.io/badge/Azure%20Devops-8A2BE2">, <img src="https://img.shields.io/badge/Git-Orange%3Flogo%3Dgithub?logo=git&color=orange"> & <img src="https://img.shields.io/badge/Githab-Orange%3Flogo%3Dgithub?logo=githab&color=orange">, TestRail, BDD (Cucumber), Scrum
 
 ## 📂  Featured Automation Projects
 
